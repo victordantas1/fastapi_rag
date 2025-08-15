@@ -270,3 +270,4 @@ cython_debug/
 #.idea/
 
 chroma_fastapi_db
+.idea
