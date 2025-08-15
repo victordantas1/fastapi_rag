@@ -6,3 +6,4 @@ langchain-google-genai
 dotenv
 requests
 beautifulsoup4
+lxml
