@@ -1,0 +1,8 @@
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-chroma
+langchain-google-genai
+dotenv
+requests
+beautifulsoup4
